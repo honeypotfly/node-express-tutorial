@@ -105,3 +105,6 @@ dist
 
 # For the sake of this tutorial
 app.js
+
+# Dev libraries
+.eslintrc.js
