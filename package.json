@@ -6,12 +6,8 @@
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js",
-    "prettier-format": "prettier --write 'src/**/*.js'"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm run prettier-format"
-    }
+    "prettier-format": "prettier --write 'src/**/*.js'",
+    "prepare": "husky install"
   },
   "repository": {
     "type": "git",
@@ -27,7 +23,7 @@
     "lodash": "^4.17.21"
   },
   "devDependencies": {
-    "husky": "^7.0.4",
+    "eslint-config-prettier": "^8.5.0",
     "nodemon": "^2.0.15",
     "prettier": "^2.6.0"
   }
