@@ -1,5 +1,5 @@
 # node-express-tutorial
-Working through an [8 hour tutorial](https://www.youtube.com/watch?v=Oe421EPjeBE&list=LL&index=2&t=8867s) to learn some webapp dev
+Working through an [8 hour tutorial](https://www.youtube.com/watch?v=Oe421EPjeBE&list=LL&index=2&t=8867s) to learn some webapp dev. There's also a repo accosicated with the tutorial [here](https://github.com/john-smilga/node-express-course).
 
 ## Some resources
 
