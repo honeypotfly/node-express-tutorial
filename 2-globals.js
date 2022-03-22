@@ -13,7 +13,7 @@
 //console.log(module)
 //console.log(process)
 
-console.log(__dirname)
+console.log(__dirname);
 setInterval(() => {
-    console.log('Hello world')
-}, 1000)
+  console.log("Hello world");
+}, 1000);

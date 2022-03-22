@@ -1,8 +1,8 @@
 // Local Secrets objects
-const secret = 'SUPER SECRET INFO'
+const secret = "SUPER SECRET INFO";
 
 // Share objects
-const john = 'john'
-const peter = 'peter'
+const john = "john";
+const peter = "peter";
 
-module.exports = {john, peter}
+module.exports = { john, peter };
