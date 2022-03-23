@@ -4,8 +4,7 @@
   "description": "An 8 hour video to learn node express",
   "main": "1-intro.js",
   "scripts": {
-    "start": "node app.js",
-    "dev": "nodemon app.js",
+    "start": "nodemon app.js",
     "prettier-format": "prettier --write 'src/**/*.js'"
   },
   "repository": {
