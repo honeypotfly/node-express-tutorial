@@ -18,3 +18,6 @@ Working through an [8 hour tutorial](https://www.youtube.com/watch?v=Oe421EPjeBE
 
 ### Anything HTML
 [MDN HTML Response Status Code](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+
+### MIME types
+[MIME Types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types)
