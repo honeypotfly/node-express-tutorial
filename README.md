@@ -15,3 +15,6 @@ Working through an [8 hour tutorial](https://www.youtube.com/watch?v=Oe421EPjeBE
 [Event Loops #2](https://nodejs.dev/learn/the-nodejs-event-loop)
 
 [Event Loop Video](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+
+### Anything HTML
+[MDN HTML Response Status Code](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
