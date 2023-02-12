@@ -19,7 +19,7 @@
   "homepage": "https://github.com/honeypotfly/node-express-tutorial#readme",
   "devDependencies": {
     "eslint-config-prettier": "^8.5.0",
-    "nodemon": "^2.0.15",
+    "nodemon": "^2.0.20",
     "prettier": "^2.6.0"
   },
   "dependencies": {
